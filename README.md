@@ -1,4 +1,4 @@
-# WiFi-ESP32
+# LAB1-esp32
 <!DOCTYPE html>
 <html>
 <head>
